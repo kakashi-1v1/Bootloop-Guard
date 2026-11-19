@@ -1,0 +1,7 @@
+id=bootloop_guard
+name=Bootloop Guard
+version=v1.0
+versionCode=1
+author=kakashi-1v1
+description=Stops bootloops (splash screen included) by disabling only the module that caused them. Reboot once to start.
+updateJson=https://raw.githubusercontent.com/kakashi-1v1/Bootloop-Guard/main/update.json
